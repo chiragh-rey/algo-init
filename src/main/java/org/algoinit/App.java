@@ -1,4 +1,4 @@
-package org.init;
+package org.algoinit;
 
 /**
  * Hello world!
